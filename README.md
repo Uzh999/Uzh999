@@ -13,6 +13,11 @@ Exploring fund flow data, API integrations and automation for market analysis.
 - Market trend analysis and data interpretation
 - Content creation for crypto audiences (Twitter / Telegram)
 
+## 📊 Projects & Work
+- Building API-based tools for crypto data analysis
+- Experimenting with CoinGecko and CoinGlass APIs
+- Exploring on-chain metrics visualization
+
 📫 Contact
 - Twitter: @OUzhakin
 
