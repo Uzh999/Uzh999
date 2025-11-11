@@ -19,7 +19,7 @@ Exploring fund flow data, API integrations and automation for market analysis.
 - Exploring on-chain metrics visualization
 
 📫 Contact
-- Twitter: @OUzhakin
+- Twitter: @Uzh999__evm
 
 - Email: ouzhakin999@gmail.com
 
